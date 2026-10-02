@@ -4,7 +4,7 @@
 
 ## GitHub 仓库
 
-https://github.com/fxliu926/code-review-agent
+https://github.com/fxliu926/code-review-agent-fxliu
 
 ## 功能特性
 
@@ -20,8 +20,8 @@ https://github.com/fxliu926/code-review-agent
 ## 安装
 
 ```bash
-git clone https://github.com/你的用户名/code-review-agent.git
-cd code-review-agent
+git clone https://github.com/fxliu926/code-review-agent-fxliu.git
+cd code-review-agent-fxliu
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
